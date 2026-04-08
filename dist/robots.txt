@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-gutter-installation-roof-repair-soffit-fascia.dream-surge.com/sitemap-index.xml
